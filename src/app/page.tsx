@@ -42,7 +42,7 @@ export default async function Page(){
         </Button>
         <Button component="label" variant="text" >
           <Link href="https://kyushu-debate-open-2024.vercel.app/" >
-           Official Site of Kyushu Uni{"'"}s British Parliamentary Open tournament.
+           Official Site of QDO 2024
           </Link>
         </Button>
       </Box>
