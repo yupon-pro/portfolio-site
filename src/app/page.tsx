@@ -1,5 +1,5 @@
 import { Box, Button, Grid, Stack, Typography } from "@mui/material";
-import { ArticleCard } from "./artileContent";
+import { ArticleCard } from "../artileContent";
 import { QiitaArticleProps } from "./definitions";
 import Link from "next/link";
 

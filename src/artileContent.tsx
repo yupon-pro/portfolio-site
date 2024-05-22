@@ -1,5 +1,5 @@
 import { Card, CardActions, CardContent, Avatar, Paper, Typography, IconButton, Grid, Icon, Link, Button, Box } from "@mui/material";
-import { QiitaItem, QiitaTag } from "./definitions";
+import { QiitaItem, QiitaTag } from "./app/definitions";
 import { Favorite, Message, RemoveRedEye } from "@mui/icons-material";
 
 export const ArticleCard = ({
