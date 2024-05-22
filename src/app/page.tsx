@@ -40,6 +40,11 @@ export default async function Page(){
           Q-dai Agora 学内知恵（認証機能付き）
           </Link>
         </Button>
+        <Button component="label" variant="text" >
+          <Link href="https://kyushu-debate-open-2024.vercel.app/" >
+           Official Site of Kyushu Uni{"'"}s British Parliamentary Open tournament.
+          </Link>
+        </Button>
       </Box>
       <Box sx={{maxHeight:"200vh",overflow:"scroll"}} >
         <Stack sx={{display:"flex",justifyContent:"center",alignItems:"center",width:"90%",margin:"auto",border:1,padding:5,}} spacing={3}>
