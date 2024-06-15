@@ -45,6 +45,11 @@ export default async function Page(){
            Official Site of QDO 2024
           </Link>
         </Button>
+        <Button component="label" variant="text" >
+          <Link href="https://yupon-pro.github.io/english-debate-time-keeper/" >
+           Speech Timekeeper Site
+          </Link>
+        </Button>
       </Box>
       <Box sx={{maxHeight:"200vh",overflow:"scroll"}} >
         <Stack sx={{display:"flex",justifyContent:"center",alignItems:"center",width:"90%",margin:"auto",border:1,padding:5,}} spacing={3}>
